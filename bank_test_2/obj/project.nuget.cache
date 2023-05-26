@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6C2GFj5AdtvXm14g9DeakL5G9jbYONklKkeCV4gb4bbPu8uzfq7t3jkY/2vAsDbedh1UJ0SuuwJW2WnCDO/zg==",
+  "success": true,
+  "projectFilePath": "E:\\VISUAL STUDIO\\bank_test_2\\bank_test_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuari\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
